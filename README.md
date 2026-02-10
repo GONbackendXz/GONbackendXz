@@ -1,6 +1,4 @@
-This is my github Account.
+<h1> Welcome <h1>
+<p> 💻 Back-end Developer | APIs • Databases • Scalable Systems <p>
 
-<!---
-GONbackendXz/GONbackendXz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Skills](https://skillicons.dev/icons?i=java,py,js,spring,docker,git,html,css,linux&perline=3)](https://skillicons.dev)
